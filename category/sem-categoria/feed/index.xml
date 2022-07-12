@@ -12,7 +12,7 @@
 	<atom:link href="https://naameufmt.github.io/NAAMEBLOG/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
 	<link>https://naameufmt.github.io/NAAMEBLOG</link>
 	<description>Núcleo de Apoio ao Aleitamento Materno Exclusivo</description>
-	<lastBuildDate>Thu, 07 Jul 2022 23:08:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Jul 2022 02:16:38 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 		<link>https://naameufmt.github.io/NAAMEBLOG/conheca-a-historia-do-naame/</link>
 					<comments>https://naameufmt.github.io/NAAMEBLOG/conheca-a-historia-do-naame/#respond</comments>
 		
-		<dc:creator><![CDATA[NAAME]]></dc:creator>
+		<dc:creator><![CDATA[Patrícia Fernandes Massmann]]></dc:creator>
 		<pubDate>Thu, 07 Jul 2022 17:27:12 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
 		<guid isPermaLink="false">https://naameufmt.github.io/NAAMEBLOG/?p=170</guid>
@@ -108,7 +108,10 @@
 
 
 <p>Caso queira entrar em contato conosco, nosso e-mail é: naameufmt@gmail.com ou nos chame no direct do Instagram.</p>
-]]></content:encoded>
+<div class="saboxplugin-wrap" itemtype="http://schema.org/Person" itemscope itemprop="author"><div class="saboxplugin-tab"><div class="saboxplugin-gravatar"><img alt='Patrícia Fernandes Massmann' src='https://naameufmt.github.io/NAAMEBLOG/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-06-at-11.31.18.jpg' srcset='https://naameufmt.github.io/NAAMEBLOG/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-06-at-11.31.18.jpg 2x' class='avatar avatar-100 photo' height='100' width='100' itemprop="image" loading='lazy'/></div><div class="saboxplugin-authorname"><a href="https://naameufmt.github.io/NAAMEBLOG/author/patriciafernandes/" class="vcard author" rel="author" itemprop="url"><span class="fn" itemprop="name">Patrícia Fernandes Massmann</span></a></div><div class="saboxplugin-desc"><div itemprop="description"><p>Coordenadora do projeto.<br />
+Docente do curso de enfermagem UFMT/CUA.<br />
+Mestre em imunologia e parasitologia básicas e aplicadas.</p>
+</div></div><div class="saboxplugin-web "><a href="http://lattes.cnpq.br/0893097253648631" target="_blank" >lattes.cnpq.br/0893097253648631</a></div><div class="clearfix"></div></div></div>]]></content:encoded>
 					
 					<wfw:commentRss>https://naameufmt.github.io/NAAMEBLOG/conheca-a-historia-do-naame/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
