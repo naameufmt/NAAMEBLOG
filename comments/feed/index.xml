@@ -11,11 +11,11 @@
 	<atom:link href="https://naameufmt.github.io/NAAMEBLOG/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://naameufmt.github.io/NAAMEBLOG</link>
 	<description>Núcleo de Apoio ao Aleitamento Materno Exclusivo</description>
-	<lastBuildDate>Tue, 12 Jul 2022 02:24:44 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jul 2022 22:55:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>
